@@ -1,0 +1,53 @@
+/* Add your CSS styles here */
+body {
+  font-family: 'Helvetica Neue', sans-serif; /* Change the font family */
+  background-image: url('cloud.jpg'); /* Use the cloud image as background */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+  height: 350px; /* Increase the height to make the extension window bigger */
+  width: 350px; /* Increase the width to make the extension window bigger */
+}
+
+.container {
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+  padding: 100px;
+  text-align: center;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+}
+
+h1 {
+  color: #333; /* Text color */
+}
+
+#location {
+  width: 95%;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  margin-right: 10px;
+  font-size: 14px; /* Change the font size */
+  margin-bottom: 20px;
+}
+
+#checkWeather {
+  background-color: #1abc9c; /* Button color */
+  color: #fff; /* Text color */
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 14px; /* Change the font size */
+}
+
+#checkWeather:hover {
+  background-color: #16a085; /* Button color on hover */
+}
+
+#weatherInfo {
+  margin-top: 16px;
+  font-size: 20px; /* Change the font size */
+  color: #333; /* Text color */
+}
