@@ -1,1 +1,3 @@
+# AK-47℃
 
+This task was not as hard as I thought. With a help of a youtube tutorial, I got the api key successfully and wrote the code for the extensions. The manifest.json file contains the manifest versions and the permissions and the icons for the extension in different bytes. Then had to create the html and css pages, that was pretty easy considering I had spent quite a lot of time trying to do the hypermockup task. The tricky part was the javascript file I had to create. I only know very basic js, that took me quite a while. Openweathermap gave out kelvin scale temperature so had to fix that by subtracting 273. Included are the screenshots. 

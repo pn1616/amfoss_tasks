@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
   checkWeatherButton.addEventListener('click', () => {
     const location = locationInput.value;
     if (location) {
-      // Construct the API request URL with the user's input location
+      
       const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${API_key}`;
 
       // Make the API request
