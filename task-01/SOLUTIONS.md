@@ -1,6 +1,6 @@
 ## Commands used
 ### cd
-to change directory. one of the key commands used all throughout the tasks. it allows us to navigate through directories
+to change directory. one of the key commands used all throughout the tasks. it also allows us to navigate through directories by adding ``../`` .
 
 ### ls
 to see the contents of a directory. adding ``la -a`` will result in showing the hidden files too. 
@@ -48,6 +48,9 @@ this pushes the changes to the repo of the main branch.
 
 ### git log
 this command shows the commit logs of the repo. you can also use ``git log --oneline`` to view the logs in one line in a more organized way. 
+
+##### decoded the base64 and got the link:
+https://github.com/TheHuntsman4/TheFinalSpell
 
  
 
