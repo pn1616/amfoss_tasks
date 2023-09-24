@@ -1,6 +1,6 @@
 # Updates and Logs
 
-I spent a week researching on a few tasks because I did'nt have Ubuntu yet due to some issues with my laptop
+I spent a week researching on a few tasks because I didn't have Ubuntu yet due to some issues with my laptop
 
 - Installed Ubuntu - 09-09-2023
 - Started working on the tasks - 10-09-2023  

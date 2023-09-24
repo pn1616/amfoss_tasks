@@ -10,5 +10,3 @@ The tricky part was the JavaScript file I had to create. I only have basic knowl
 
 ![Screenshot from 2023-09-16 11-56-56](https://github.com/pn1616/amfoss_tasks/assets/143744137/ce26f2d1-80da-4a0c-b786-3ee6bd761a42)
 
-![Screenshot from 2023-09-16 11-57-25](https://github.com/pn1616/amfoss_tasks/assets/143744137/7ff7bc75-5bec-4809-8b18-c6d849610a92)
-
