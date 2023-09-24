@@ -2,11 +2,18 @@
 
 ## Introspection
 
+## Why should we choose you?
+
+## What are your goals for the next six months? How will you accomplish them?
+
+## How will you contribute back to the club?
+
+
 ## Tasks
 
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-[Introspection]()|Introspection|Completed
+[Introspection](https://github.com/pn1616/amfoss_tasks/blob/main/README.md#introspection)|Introspection|Completed
 [Task-00](https://github.com/pn1616/amfoss_tasks/tree/main/task-00)|Install Linux|Completed
 [Task-01](https://github.com/pn1616/amfoss_tasks/tree/main/task-01)|Terminal Wizard|Completed
 [Task-02](https://github.com/pn1616/amfoss_tasks/tree/main/task-02)|Lessgo Hugo|Completed
@@ -21,5 +28,5 @@
 [Task-11](https://github.com/pn1616/amfoss_tasks/tree/main/task-11)|TinkerCAD|Unattempted
 [Task-12](https://github.com/pn1616/amfoss_tasks/tree/main/task-12)|Godot|Unattempted
 [Task-13](https://github.com/pn1616/amfoss_tasks/tree/main/task-13)|Vim|Completed
-[Task-14](https://github.com/pn1616/amfoss_tasks/tree/main/task-14)|Bandit|Unattempted
+[Task-14](https://github.com/pn1616/amfoss_tasks/tree/main/task-14)|Bandit|Completed
 [Task-15](https://github.com/pn1616/amfoss_tasks/tree/main/task-15)|Project Euler|Completed
