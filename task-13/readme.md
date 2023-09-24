@@ -1,6 +1,6 @@
 # Vim
 
-I had already installed vim but did not know how exactly I can make it useful. Doing this task was really helpful in learning all things vim. 
+I had already installed Vim but didn't know how to make the most of it. Completing this task was really beneficial in helping me learn how to use Vim effectively.
 
 - SC:
 

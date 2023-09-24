@@ -1,3 +1,3 @@
 # TinkerCAD
 
-i did not attempt it. But I know how to use Tinkercad to make circuits. 
+I did not attempt it, but I do have knowledge of how to use Tinkercad to create circuits.

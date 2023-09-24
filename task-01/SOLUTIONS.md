@@ -1,56 +1,52 @@
-## Commands used
+# Commands Used
 ### cd
-to change directory. one of the key commands used all throughout the tasks. it also allows us to navigate through directories by adding ``../`` .
+Used to change the current directory. This command was essential for navigating through directories, and it allowed me to move around using relative paths with ``../``.
 
 ### ls
-to see the contents of a directory. adding ``la -a`` will result in showing the hidden files too. 
+Used to list the contents of a directory. By adding ``ls -a``, I was able to display hidden files as well.
 
 ### touch
-to create a file
+Utilized to create a new file.
 
 ### mkdir
-to make a directory
+Used to create a new directory.
 
 ### python3
-to run the file in the terminal itself.
+Executed this command to run Python scripts directly in the terminal.
 
 ### rm
-to delete files. using ``rm -r`` deletes a directory
+Used for deleting files, and with the ``-r`` option, it allowed me to remove directories recursively.
 
 ### vim
-installed vim. used it to edit the files in the terminal itself
+Installed and used Vim to edit files within the terminal itself.
 
 ### cat
-opens the file in the terminal
+Used to view the contents of a file directly in the terminal.
 
 ### cp
-copies the file to the given destination. if the destination doesn't exist, it creates one of the same name.
+Utilized to copy files to a specified destination, and if the destination doesn't exist, it created one with the same name.
 
-## git commands used
-
+# Git Commands Used
 ### git clone
-adding a repo link to this command will clone the repo to the local machine so that we can edit and view the files
+This command allowed me to clone a repository from a given URL to my local machine, enabling me to work on and view the files locally.
 
 ### git checkout <branch>
-this is used to change branch of the github repository and to view an existing branch. can add ``-b`` to create a new one.
+Used to switch to a different branch in a GitHub repository or to view an existing branch. The ``-b`` option can be added to create a new branch.
 
 ### git init
-reinitialises the existing repository or makes a new one
+Reinitialized an existing repository or created a new one if none existed.
 
 ### git add .
-first step for pushing the changes. it tells git that you want to include updates to a particular file or directory in the next commit.
+The first step in pushing changes to a repository. It informs Git that I want to include updates to a particular file or directory in the next commit.
 
-### git commit -m <commit message> 
-you can give your commit messages. this commands notices all the changes that we made to the repo since the last push. 
+### git commit -m <commit message>
+Used to provide commit messages when making commits. This command recorded all changes made to the repository since the last push.
 
 ### git push origin main
-this pushes the changes to the repo of the main branch. 
+Pushed the changes to the main branch of the GitHub repository.
 
 ### git log
-this command shows the commit logs of the repo. you can also use ``git log --oneline`` to view the logs in one line in a more organized way. 
+Displayed the commit logs of the repository, allowing me to review the commit history. Adding ``--oneline`` made the logs appear in a more organized, one-line format.
 
-##### decoded the base64 and got the link:
+### Decoded the base64 and obtained the link:
 https://github.com/TheHuntsman4/TheFinalSpell
-
- 
-

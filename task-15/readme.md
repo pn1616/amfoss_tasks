@@ -1,3 +1,3 @@
 # Project Euler
 
-I had already solved the first four problems prior. So only had to work on one. The euler series is really helpful in building mathematical as well as coding logics. 
+I had already solved the first four problems before, so I only had to work on one. The Euler series is incredibly helpful in developing both mathematical and coding logic.

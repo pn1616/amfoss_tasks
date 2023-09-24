@@ -1,3 +1,3 @@
 # Hello, World
 
-I did seven of the languages. I watched a basic intro video of each languages and used help from google to write the code. While doing Ruby and Go, I found it pretty similar to python. I didn't have time to study elixir and the other languages as i started late. 
+I tried seven different programming languages. I watched basic introductory videos for each language and used Google for assistance while writing the code. While working with Ruby and Go, I noticed they were quite similar to Python. Unfortunately, I didn't have enough time to study Elixir and the other languages as I started late.

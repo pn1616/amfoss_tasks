@@ -1,6 +1,6 @@
 # PokeSearch
 
-This one was interesting as I did not know much about pokemon and there are games like this. Did a lot of research into it and api requests were fine too. I accidently deleted some code and the buttons is centre aligned. I know I can redo it and everything. But it was after my api was working and the whole game was working all of a sudden, the only issue is the buttons were not center aligned in the search window. I did not want to mess everything up just for that. Hope that's okay!
+This task was quite interesting, as I didn't know much about Pokémon and similar games. I had to do a lot of research into it, and the API requests went smoothly. However, I accidentally deleted some code, which caused the buttons to be center-aligned. I know I can redo it and fix everything, but at the moment, the API was working, and the whole game was functional, except for the button alignment issue in the search window. I didn't want to risk messing everything up just for that. I hope that's okay!  
 
 - SC:
 
