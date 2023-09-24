@@ -1,6 +1,6 @@
 # Lessgo Hugo
 
-- You can find the readme file in the blogs category in the far right corner of the website.
+- You can find the readme file in the 'blogs' category in the far right corner of the navigation bar of the website.
 
 - Site link: https://pn1616.github.io/
 
