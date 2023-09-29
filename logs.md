@@ -1,5 +1,7 @@
 # Updates and Logs
 
+I know this is not necessary but I wanted to keep track of my progress and half way through it, I thought why not share it? So here's the progress updates of each days. 
+
 I spent a week researching on a few tasks because I didn't have Ubuntu yet due to some issues with my laptop
 
 - Installed Ubuntu - 09-09-2023
@@ -76,6 +78,24 @@ I spent a week researching on a few tasks because I didn't have Ubuntu yet due t
 - Worked on the tasks till 1:00am  
 
 #### Date: 24.09.2023
-- 
+- The whole day
+- Worked on the final touches for the repository thinking it was the last day.  
+
+#### Date: 25.09.2023
+- Hours spent: 1 hour
+- Worked on discord bot. Web scrapping failed.  
+
+#### Date: 26.09.2023
+- Hours spent: 2 hours
+- Tried to do a CP problem.  
+
+#### Date: 27.09.2023
+- Did not do anything as I had college work.   
+
+#### Date: 28.09.2023
+- Hours spent: 4 hours
+- Tried to do Geoquest again. Failed miserably.   
+
+
 
 
