@@ -87,14 +87,14 @@ I spent a week researching on a few tasks because I didn't have Ubuntu yet due t
 
 #### Date: 26.09.2023
 - Hours spent: 2 hours
-- Tried to do a CP problem.  
+- Worked on a CP problem.  
 
 #### Date: 27.09.2023
 - Did not do anything as I had college work.   
 
 #### Date: 28.09.2023
 - Hours spent: 4 hours
-- Tried to do Geoquest again. Failed miserably.   
+- Tried to do Geoquest again. Did not work.   
 
 
 
