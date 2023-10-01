@@ -1,6 +1,6 @@
 # GeoQuest
 
-By this time, I was feeling quite burnt out. I had to work twice as hard to catch up on the two weeks I lost because I didn't have Ubuntu initially. I also had to install Flutter for this task. Understanding Dart wasn't easy for me, and I encountered issues with the map functionality. I dedicated around three days to try different code alterations and make it work. However, as the deadline approached, I decided to drop this task. Instead, I focused on completing a few additional tasks and adding final touches to the tasks I had already worked on.  
+I installed Flutter for this task. Understanding Dart wasn't easy for me, and I encountered issues with the map functionality. I dedicated around three days to try different code alterations and make it work. However, as the deadline approached, I decided to drop this task. Instead, I focused on completing a few additional tasks and adding final touches to the tasks I had already worked on.  
 
 - installed flutter
 
