@@ -1,7 +1,7 @@
 from PySide6.QtWidgets import QWidget, QLabel, QLineEdit, QPushButton, QVBoxLayout, QMessageBox
 from PySide6.QtGui import QPixmap, QImage
 import requests
-from display_window import DisplayWindow  # Assuming you have a DisplayWindow class in display_window.py
+from display_window import DisplayWindow  
 
 class SearchWindow(QWidget):
     def __init__(self):
@@ -14,7 +14,6 @@ class SearchWindow(QWidget):
         self.setFixedSize(850, 500)
         self.setWindowTitle("Pokédex")
 
-        # Load the background image
         bg_image = QImage("../assets/landing.jpg")
         bg_pixmap = QPixmap.fromImage(bg_image)
         bg_label = QLabel(self)
@@ -59,12 +58,10 @@ class SearchWindow(QWidget):
                 types = [type['type']['name'] for type in pokemon_data['types']]
                 stats = [stat['base_stat'] for stat in pokemon_data['stats']]
 
-                # Download and display the official artwork image
                 image_url = pokemon_data['sprites']['other']['official-artwork']['front_default']
                 pixmap = QPixmap()
                 pixmap.loadFromData(requests.get(image_url).content)
 
-                # Display information in QLabel
                 info_text = f"Name: {name}\n"
                 info_text += f"Abilities: {', '.join(abilities)}\n"
                 info_text += f"Types: {', '.join(types)}\n"
@@ -93,7 +90,6 @@ class SearchWindow(QWidget):
 
     def open_display_window(self):
         if self.pokemon_data:
-            # Display captured Pokémon in a new window
             display_window = DisplayWindow(self.pokemon_data)
             display_window.exec_()
         else:

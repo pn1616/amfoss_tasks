@@ -1,25 +1,23 @@
-/* Add your CSS styles here */
+
 body {
-  font-family: 'Helvetica Neue', sans-serif; /* Change the font family */
-  background-image: url('cloud.jpg'); /* Use the cloud image as background */
+  font-family: 'Helvetica Neue', sans-serif; 
+  background-image: url('cloud.jpg'); 
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   margin: 0;
   padding: 0;
-  height: 350px; /* Increase the height to make the extension window bigger */
-  width: 350px; /* Increase the width to make the extension window bigger */
-}
-
+  height: 350px; 
+  width: 350px; 
 .container {
-  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+  background-color: rgba(255, 255, 255, 0.8); 
   padding: 100px;
   text-align: center;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); 
 }
 
 h1 {
-  color: #333; /* Text color */
+  color: #333; 
 }
 
 #location {
@@ -28,26 +26,26 @@ h1 {
   border: none;
   border-radius: 10px;
   margin-right: 10px;
-  font-size: 14px; /* Change the font size */
+  font-size: 14px; 
   margin-bottom: 20px;
 }
 
 #checkWeather {
-  background-color: #1abc9c; /* Button color */
-  color: #fff; /* Text color */
+  background-color: #1abc9c; 
+  color: #fff; 
   border: none;
   border-radius: 20px;
   padding: 10px 20px;
   cursor: pointer;
-  font-size: 14px; /* Change the font size */
+  font-size: 14px; 
 }
 
 #checkWeather:hover {
-  background-color: #16a085; /* Button color on hover */
+  background-color: #16a085; 
 }
 
 #weatherInfo {
   margin-top: 16px;
-  font-size: 20px; /* Change the font size */
-  color: #333; /* Text color */
+  font-size: 20px; 
+  color: #333; 
 }
